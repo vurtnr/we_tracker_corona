@@ -21,6 +21,8 @@
   </a>
 </p>
 
+![image](https://github.com/vurtnr/we_tracker_corona/blob/master/tracker.png)
+
 ## 安装
 
 ```bash
